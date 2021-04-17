@@ -19,7 +19,7 @@ With our new knowledge in node.js, we are creating a readme to have our future p
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   # Contributors
-  Kevin Hidalgo, thought by John and Dan
+  Kevin Hidalgo, taught by John and Dan
   # Test
   npm test
   # Contact
