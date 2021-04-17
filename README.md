@@ -35,6 +35,8 @@ With our new knowledge in node.js, we are creating a readme to have our future p
   kevinrhidalgo@yahoo.com 
 
 # ReadMe Image
+![screenshot](https://user-images.githubusercontent.com/78196245/115098605-e83b1500-9efe-11eb-8ace-a013f0c89e94.jpg)
+
 
 # GitHub Url
 https://github.com/kevinrhidalgo/Homework-7-CreatingThePerfectReadeMe
