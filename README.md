@@ -39,7 +39,7 @@ With our new knowledge in node.js, we are creating a readme to have our future p
 # GitHub Url
 https://github.com/kevinrhidalgo/Homework-7-CreatingThePerfectReadeMe
 # Example Video Demonstration
- 
+ ![nodejs](https://user-images.githubusercontent.com/78196245/115098562-ac07b480-9efe-11eb-91cb-1989fe428b93.gif)
   
 
   
